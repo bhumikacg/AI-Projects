@@ -1,7 +1,7 @@
 # AI-Projects
 ## 1. Creating a Power Point Presentation using NotebookLM ang GammaAI:
 
-- Summarized videos from the Codebasics YouTube channel using Notebook AI
+- Summarized videos from a youtube channel using Notebook AI
 
 - Designed and generated the presentation with Gamma AI
 
